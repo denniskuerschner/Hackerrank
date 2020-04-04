@@ -1,0 +1,22 @@
+package com.test;
+
+public class Test {
+
+	 public static void main(String[] args) {
+	        //schreib hier deinen Code
+	        Person person = new Person();
+	    }
+
+	    public static class Person {
+	        //schreib hier deinen Code
+	        String name;
+	        int alter;
+	        int gewicht;
+	        int geld;
+	        Person() {
+			}
+	    }
+
+	}
+
+

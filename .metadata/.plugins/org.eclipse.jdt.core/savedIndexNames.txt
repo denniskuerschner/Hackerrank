@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+/Users/denniskurschner/Java CodeGym/.metadata/.plugins/org.eclipse.jdt.core
+939283709.index
+2201194791.index
+1520740593.index
+1037956538.index
+2089348824.index
